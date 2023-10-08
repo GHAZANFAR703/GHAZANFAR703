@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GHAZANFAR703
+- 👋 Hi, I’m GHAZANFAR ABBAS.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Data Science and Artificial Intelligence.
 - 💞️ I’m looking to collaborate on Unique Projects.
